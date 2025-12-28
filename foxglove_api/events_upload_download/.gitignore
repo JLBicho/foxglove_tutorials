@@ -1,0 +1,6 @@
+**/*.jpeg
+*.DS_Store
+*/*.mcap
+*.env
+**/*.pyc
+*.pyc

@@ -1,0 +1,16 @@
+[project]
+name = "foxglove-api-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "foxglove-client>=0.18.0",
+    "foxglove-sdk>=0.16.1",
+    "numpy>=2.2.6",
+    "pillow>=12.0.0",
+    "pytz>=2025.2",
+    "pyyaml>=6.0.3",
+    "ruff>=0.14.10",
+]
