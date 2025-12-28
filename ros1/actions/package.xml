@@ -1,5 +1,0 @@
-<depend>rospy</depend>
-
-<depend>actionlib</depend>
-
-<depend>actionlib_msgs</depend>
